@@ -6,9 +6,9 @@ Shows Recipes in general or for specific searchterms.
 
 + [Parser via DB-API](../mealdb_api/prepDB.py)
 
-+ [GUI with _PyQt_](../src/main/python/main.py)
++ [GUI with __PyQt__](../src/main/python/main.py)
 
-+ [_fbs_ for standalone programs](https://github.com/mherrmann/fbs-tutorial)
++ [__fbs__ for standalone programs](https://github.com/mherrmann/fbs-tutorial)
 
 ### WIP
 + Save Favorites
@@ -19,6 +19,8 @@ Shows Recipes in general or for specific searchterms.
 
 + Sophisticated DB (incl. Search)
     + parse more Data (make Webscraper)
-    + theoretical background: ![Flavor Network](../src/main/resources/flavor_network.png "Common Ingredients")
+    + theoretical background: ![Flavor Network](images/flavor_network.png "Common Ingredients")
+ 
+
 
 
