@@ -2,7 +2,7 @@
 ###### by faydyn
 ___
 ### Overview
-#####Shows Recipes in general or for specific searchterms:
+##### Shows Recipes in general or for specific searchterms:
 ![App](images/all.png "App")
 
 
